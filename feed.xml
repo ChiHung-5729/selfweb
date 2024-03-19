@@ -3,12 +3,24 @@
     <title>J.H.Nickel</title>
     <link href="https://chihung-5729.github.io/selfweb/feed.xml" rel="self" />
     <link href="https://chihung-5729.github.io/selfweb" />
-    <updated>2024-03-19T21:12:35+08:00</updated>
+    <updated>2024-03-19T22:03:19+08:00</updated>
     <author>
         <name>CHH</name>
     </author>
     <id>https://chihung-5729.github.io/selfweb</id>
 
+    <entry>
+        <title>second line</title>
+        <author>
+            <name>CHH</name>
+        </author>
+        <link href="https://chihung-5729.github.io/selfweb/second-line.html"/>
+        <id>https://chihung-5729.github.io/selfweb/second-line.html</id>
+
+        <updated>2024-03-19T22:03:19+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>first line</title>
         <author>
@@ -22,9 +34,10 @@
         <content type="html">
             <![CDATA[
                 
-  <p>
-    
-  </p>
+    <figure class="post__image post__image--full">
+      <img loading="lazy" src="https://chihung-5729.github.io/selfweb/media/posts/1/275942214_4857955964312044_8061591254711006075_n.jpg" height="1444" width="2048" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chihung-5729.github.io/selfweb/media/posts/1/responsive/275942214_4857955964312044_8061591254711006075_n-xs.jpg 300w ,https://chihung-5729.github.io/selfweb/media/posts/1/responsive/275942214_4857955964312044_8061591254711006075_n-sm.jpg 480w ,https://chihung-5729.github.io/selfweb/media/posts/1/responsive/275942214_4857955964312044_8061591254711006075_n-md.jpg 768w ,https://chihung-5729.github.io/selfweb/media/posts/1/responsive/275942214_4857955964312044_8061591254711006075_n-lg.jpg 1024w">
+      
+    </figure>
             ]]>
         </content>
     </entry>
