@@ -3,7 +3,7 @@
     <title>J.H.Nickel</title>
     <link href="https://chihung-5729.github.io/selfweb/feed.xml" rel="self" />
     <link href="https://chihung-5729.github.io/selfweb" />
-    <updated>2024-03-19T22:03:19+08:00</updated>
+    <updated>2024-03-19T22:11:19+08:00</updated>
     <author>
         <name>CHH</name>
     </author>
@@ -16,10 +16,19 @@
         </author>
         <link href="https://chihung-5729.github.io/selfweb/second-line.html"/>
         <id>https://chihung-5729.github.io/selfweb/second-line.html</id>
+            <category term="works"/>
 
         <updated>2024-03-19T22:03:19+08:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://chihung-5729.github.io/selfweb/media/posts/2/gallery/float1.JPG" data-size="3936x2624"><img loading="lazy" src="https://chihung-5729.github.io/selfweb/media/posts/2/gallery/float1-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://chihung-5729.github.io/selfweb/media/posts/2/gallery/self.jpg" data-size="7250x7246"><img loading="lazy" src="https://chihung-5729.github.io/selfweb/media/posts/2/gallery/self-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://chihung-5729.github.io/selfweb/media/posts/2/gallery/Huang-Ji-Hong.jpg" data-size="6000x6000"><img loading="lazy" src="https://chihung-5729.github.io/selfweb/media/posts/2/gallery/Huang-Ji-Hong-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>first line</title>
